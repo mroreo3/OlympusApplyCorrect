@@ -1,0 +1,1 @@
+#include "bugTracker\dialogs.cpp"
